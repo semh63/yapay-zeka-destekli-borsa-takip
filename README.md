@@ -1,0 +1,1 @@
+# yapay-zeka-destekli-borsa-takip
